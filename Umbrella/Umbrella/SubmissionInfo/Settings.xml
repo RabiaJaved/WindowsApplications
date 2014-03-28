@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>300x300.png</SmallAppTile>
+  <ScreenShots>Umbrella.png;NoUmbrella.png;;;;;;;</ScreenShots>
+  <ScreenShotsWXGA>NoUmbrella_WXGA.png;Umbrella_WXGA.png;;;;;;;</ScreenShotsWXGA>
+  <ScreenShots720P>NoUmbrella_720p.png;Umbrella_720p.png;;;;;;;</ScreenShots720P>
+</MarketplaceDetails>

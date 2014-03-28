@@ -1,0 +1,4 @@
+syntax: glob
+HadithApp/bin/Debug/*
+HadithApp/obj/*
+HadithApp/obj/Debug/*
