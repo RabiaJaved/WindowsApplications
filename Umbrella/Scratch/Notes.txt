@@ -1,8 +1,0 @@
-25th March:
--------------
-Added privacy policy and location toggle switch, as required by certification
- - added ApplicationBar to MainPage.xaml
-   - Has link to About/Settings page - using NavigationService.NavigateTo()
- - added AboutPage.xaml
-   - Added ToggleSwitch (from Windows Phone Toolkit - via nuGet)
-   - Added Privacy Policy Button - uses MessagesBox.Show
