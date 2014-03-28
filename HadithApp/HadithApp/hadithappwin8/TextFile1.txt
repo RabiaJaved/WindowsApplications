@@ -1,8 +1,0 @@
-﻿sounds add
-live tiles
-more ahadith
-use image with no copyright
-new image on launch, change after every 5
-print narrator
-categories?
-search?
